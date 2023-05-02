@@ -13,7 +13,7 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+  <img align="right" height="200em" alt="Sarah-gif" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 </div>
   
 </br>
