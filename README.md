@@ -24,6 +24,8 @@ Contact
  </br>
 </br>
  
-![snake gif](https://github.com/sarahlagares/sarahlagares/blob/output/github-contribution-grid-snake.svg)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@smlagares9960334/30-nites-of-code)  
+  ![@smlagares9960334 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=smlagares9960334)
  
 </div>
